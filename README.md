@@ -1,7 +1,7 @@
 # 2021_Classes
 Source code of differents class taken during my last year at the ESME School
 
-(Datas used for this class are not part of this repo)
+(Datas used for those classes are not part of this repo)
 
 ## Additional Info for Computer Vision :
 
